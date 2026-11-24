@@ -48,6 +48,16 @@ Avg Order Value = DIVIDE([Revenue], [Total Orders])
 4. **Large pizzas dominate.** L sells about 19K pizzas, ahead of M (15.6K) and S (14.4K), while XL and XXL are almost negligible and could be reviewed for removal from the menu.
 5. **Sales are steady across the year**, with a peak in July and a dip around September and October.
 
+## Business recommendations
+
+1. **Staff and prep for the two daily rushes.** Demand peaks at 12-1 PM and 5-6 PM, so extra kitchen and delivery staff, and dough and toppings prepared in advance, would cover the busiest hours.
+2. **Run offers in the quiet hours.** Sales are low from 2-4 PM and after 8 PM, so a mid-afternoon or late-evening deal could move demand into slower periods.
+3. **Review the XL and XXL sizes.** Together they sell well under 1K pizzas out of 50K. Removing or simplifying them would cut inventory and menu complexity with little impact on sales.
+4. **Feature the Thai Chicken Pizza.** It is the top revenue earner, so it deserves prominent placement in menus, combos and promotions. Pizzas that sell the most by quantity, like the Classic Deluxe, can anchor value bundles.
+5. **Use promotions in the slower months.** Sales are highest in July and dip around September and October. The monthly swing is modest, so small seasonal offers are enough.
+
+*These recommendations are based on one year of sales data and should be tested against costs and margins before acting on them.*
+
 ## Tools used
 Power BI Desktop, DAX, data modelling
 
